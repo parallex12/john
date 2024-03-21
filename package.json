@@ -1,0 +1,34 @@
+{
+  "name": "john-state-library",
+  "version": "1.0.0",
+  "description": "A custom state management library for React Native Expo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "your-build-script-here"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "state-management"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.66.4"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.66.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/custom-state-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/custom-state-library/issues"
+  },
+  "homepage": "https://github.com/your-username/custom-state-library#readme"
+}

@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional IDE directory (e.g. Visual Studio Code)
+.vscode/
+node_modules
